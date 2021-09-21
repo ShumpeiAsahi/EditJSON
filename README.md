@@ -1,15 +1,19 @@
 # EditJSON
+PythonでJSONを編集する
 
-#コマンドプロンプト(Windows)
+# コマンドプロンプト(Windows)
 
 cd pyファイルを置いているフォルダのパス
+
 python main.py
  
-#ターミナル(Mac or Linux)
+ 
+# ターミナル(Mac or Linux)
 
 cd pyファイルを置いているフォルダのパス
+
 python3 main.py
  
  
-#くわしくはこちら
+# くわしくはこちら
 https://pelife.dev/2021/09/20/pythonjson_delete/
