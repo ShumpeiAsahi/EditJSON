@@ -1,5 +1,6 @@
 # EditJSON
 PythonでJSONを編集する
+必要のないキーを削除するプログラムです。
 
 # コマンドプロンプト(Windows)
 
